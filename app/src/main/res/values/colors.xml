@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_primary">#904EDD</color>
+    <color name="purple_primary_dark">#6D2FB8</color>
+    <color name="electric_blue">#38BDF8</color>
+    <color name="gold_premium">#F5C33B</color>
+    <color name="bg_dark">#0B0B0F</color>
+    <color name="bg_surface">#14141B</color>
+    <color name="text_primary">#F3F4F6</color>
+    <color name="text_secondary">#9CA3AF</color>
+    <color name="danger">#EF4444</color>
+</resources>
