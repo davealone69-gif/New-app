@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">3Double D</string>
+    <string name="studio">Avatar Studio</string>
+    <string name="builder">Builder</string>
+    <string name="presets">Presets</string>
+    <string name="import">Import</string>
+    <string name="appearance">Appearance</string>
+    <string name="body">Body</string>
+    <string name="details">Details &amp; Add-ons</string>
+    <string name="preview">Preview</string>
+    <string name="settings">Settings / Premium</string>
+    <string name="export">Export</string>
+    <string name="gallery">Gallery</string>
+    <string name="load_outfit">Load Outfit</string>
+    <string name="save_avatar">Save Avatar</string>
+    <string name="render">Render</string>
+    <string name="export_glb">Export GLB</string>
+    <string name="export_png">Export PNG</string>
+    <string name="export_mp4">Export MP4</string>
+    <string name="export_gif">Export GIF</string>
+    <string name="model_library">Model Library</string>
+    <string name="material_editor">Material Editor</string>
+    <string name="animation">Animation</string>
+</resources>
